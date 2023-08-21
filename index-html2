@@ -1,0 +1,21 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>Pillow Shop</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <h1 style="text-align: center blackground: #CCCCCC">Sobre a Pillow Shop</h1>
+
+        <p>Localizada no coração da Neymar a <strong>Pillow Shop</strong> traz para o mercado o que há de melhor para o seu conforto. 
+        Fundada em 2019, a Pillow Shop já é destaque no País e conquista novos clientes a cada dia.</p>
+
+        <p style="font-size: 20px"><em>Nossa missão é: <strong>"Proporcionar auto-estima e qualidade de vida aos clientes"</strong>.</em></p>
+
+        <p>Oferecemos traviseiros da melhor qualidade com diversas variedades. 
+        O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
+    </body>
+</html>
